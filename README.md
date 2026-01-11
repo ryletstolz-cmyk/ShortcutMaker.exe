@@ -68,7 +68,7 @@ Icons work best as .ico files.
 
 
 
-runing can run so:
+runing can not run so:
 
 
 
