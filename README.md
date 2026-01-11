@@ -61,4 +61,11 @@ Keep all files together
 
 Don’t rename internal script files unless you update the launcher
 
-Icons work best as .ico files
+Icons work best as .ico files.
+
+
+
+
+
+
+runing can run so:
